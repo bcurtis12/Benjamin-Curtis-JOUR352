@@ -1,4 +1,29 @@
-#content {
+#content{
   margin: 0 auto;
   width: 900px;
+  font-family: Georgia;
+  font-size: 13px;
+}
+#headline{
+  margin 0 auto;
+  font-size: 80px;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+#byline {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+}
+
+#readmore {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-style: bold;
+}
+
+#links {
+  font-size: 12px;
+  font-family: Helvetica, sans-serif;
 }
