@@ -5,10 +5,9 @@
   font-size: 13px;
 }
 
-#masthead {
-  align-items:left;
-  max-width: 30px;
-  width:75%;
+#masthead{
+  margin-left: 0;
+  max-width: 60%;
 }
 
 #submast {
@@ -24,6 +23,7 @@ h1 {
   font-size: 80px;
   text-align: center;
   font-family: Helvetica, sans-serif;
+  padding-top: 5px;
 }
 
 #byline {
@@ -36,7 +36,7 @@ h1 {
   font-family: Helvetica, sans-serif;
   font-size: 20px;
   font-style: bold;
-  padding-top: 30px;
+  padding-top: 60px;
 }
 
 #links {
