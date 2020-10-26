@@ -29,3 +29,11 @@ h2{
   font-size: 18px;
   font-style: italic;
 }
+img{
+  padding-top: 5px;
+}
+
+figcaption{
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
