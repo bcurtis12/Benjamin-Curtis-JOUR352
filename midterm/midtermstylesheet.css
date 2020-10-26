@@ -1,0 +1,31 @@
+p {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+
+h1{
+  font-family: Georgia, serif;
+  font-size: 48px;
+}
+
+h2{
+  font-family: Georgia, serif;
+  font-size: 24px;
+}
+
+#fullcontent{
+  text-align: center;
+}
+
+/* Make this distinctive and different than the rest of the body text */
+#byline{
+  font-size: 14px;
+  font-style: italic;
+  padding-top: 10px;
+}
+
+#pullquote{
+  color: #78001a;
+  font-size: 18px;
+  font-style: italic;
+}
