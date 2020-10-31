@@ -1,0 +1,42 @@
+.jobtitle{
+    font-family: Georgia, Garamond, serif;
+    font-weight: bold;
+    font-size: 18px;
+    color:#00008B;
+}
+
+.organization {
+  font-family: Georgia, Garamond, serif;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.date{
+  font-family: Georgia, Garamond, serif;
+  font-style: italic;
+  font-size: 14px;
+}
+
+.description{
+  font-family: Georgia, Garamond, serif;
+  font-size: 12px;
+}
+
+.skilltitle{
+  font-weight: bold;
+    color: #00008B;
+}
+
+
+#skills{
+  font-size: 16px;
+}
+
+#degrees{
+  font-size: 14px;
+}
+
+#educationstyle{
+  color: #00008B;
+  font-weight: bold;
+}
