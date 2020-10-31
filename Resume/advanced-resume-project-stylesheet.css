@@ -2,41 +2,46 @@
     font-family: Georgia, Garamond, serif;
     font-weight: bold;
     font-size: 18px;
-    color:#00008B;
+    color: #000080;
 }
 
 .organization {
   font-family: Georgia, Garamond, serif;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .date{
   font-family: Georgia, Garamond, serif;
   font-style: italic;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .description{
   font-family: Georgia, Garamond, serif;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .skilltitle{
   font-weight: bold;
-    color: #00008B;
+    color: #000080;
 }
 
+#profile{
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 #skills{
-  font-size: 16px;
+  font-size: 20px;
 }
 
 #degrees{
-  font-size: 14px;
+  font-size: 16px;
 }
 
 #educationstyle{
-  color: #00008B;
+  color: #000080;
   font-weight: bold;
 }
