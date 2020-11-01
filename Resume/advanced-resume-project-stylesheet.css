@@ -1,7 +1,7 @@
 .jobtitle{
     font-family: Georgia, Garamond, serif;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 20px;
     color: #000080;
 }
 
@@ -19,29 +19,39 @@
 
 .description{
   font-family: Georgia, Garamond, serif;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .skilltitle{
   font-weight: bold;
     color: #000080;
+    font-size: 28px;
 }
 
+.skills{
+  font-size: 20.5px;
+}
 #profile{
   width: 150px;
   margin-left: auto;
   margin-right: auto;
 }
 
-#skills{
-  font-size: 20px;
-}
 
 #degrees{
-  font-size: 16px;
+  font-size: 14px;
 }
 
 #educationstyle{
   color: #000080;
+  font-weight: bold;
+}
+
+#reels {
+  font-family: Georgia, Garamond, serif;
+  color: black;
+}
+
+#demotitle{
   font-weight: bold;
 }
