@@ -1,0 +1,37 @@
+#headline{
+  text-align: center;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+#byline{
+  text-align: center;
+  font-style: italic;
+}
+
+#chapterhead{
+  padding-top: 15px;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.chaptertext{
+padding-bottom: 6px;
+}
+
+#picture {
+  text-align: center;
+  width: 100%;
+  height: auto;
+}
+#caption {
+  text-align: center;
+  font-style: italic;
+}
+
+#footer{
+  text-align: center;
+  font-weight: bold;
+  background-color: black;
+  color: white;
+}
