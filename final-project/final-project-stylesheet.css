@@ -1,0 +1,27 @@
+.responsive{
+  width: 100%;
+  height: auto;
+}
+
+
+.maintext{
+  font-size: 14px;
+  color: black;
+}
+
+#subhead{
+  font-style:italic;
+  font-size: 20px;
+  padding-bottom: 15px;
+}
+
+#footer{
+  background-color: #00003f;
+  color: white;
+  text-align: center;
+  line-height: 15.6px;
+}
+
+h2{
+  font-style: italic;
+}
