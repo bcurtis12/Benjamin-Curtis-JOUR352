@@ -3,6 +3,9 @@
   height: auto;
 }
 
+#container{
+  margin: 0 auto;
+}
 
 .maintext{
   font-family: Helvetica, sans-serif;
